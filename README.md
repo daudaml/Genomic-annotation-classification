@@ -60,3 +60,8 @@ Please note that the manuscript related to this work is currently in the draft w
 
 If you find this Pipeline useful in your research or work, we encourage you to cite this repository.
 If you have any questions or suggestions, please open an issue.
+
+## Authors
+
+1. [Dawood Ahmed](https://scholar.google.com/citations?user=1TaXRf4AAAAJ&hl=en)
+2. [Michael Fulcher](https://scholar.google.com/citations?user=d_XzfGAAAAAJ&hl=en)
