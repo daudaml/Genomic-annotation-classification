@@ -34,7 +34,7 @@ Learn more about InterProScan: [InterProScan](https://www.ebi.ac.uk/interpro/sea
 
 ## Results and Graph
 
-In your example, you ran the genomic annotation and classification pipeline on the Pseudomonas genus to classify pathogenicity in different samples. The achieved accuracy was around 96%. To further understand the relationship between the number of selected features and accuracy, you reran the pipeline for different feature counts and plotted a graph.
+In this project, we ran the genomic annotation and classification pipeline on the Pseudomonas genus to classify pathogenicity in different samples. The achieved accuracy was around 96%. To further understand the relationship between the number of selected features and accuracy, we reran the pipeline for different feature counts and plotted a graph.
 
 ![Accuracy Graph](https://github.com/daudaml/Genomic-annotation-classification/blob/main/images/1.jpg?raw=true)
 
